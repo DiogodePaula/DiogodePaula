@@ -4,10 +4,10 @@ My name is Diogo da Silva de Paula from Brazil (🇧🇷).
 I've been a programming student since 2019 and I love the code world. I want to help cut red tape and make the world easier!
 
 Hobbies:
-Games 🎮
-Weight training 💪
-Learn 💻
-Séires 📺
+Games 🎮,
+Weight training 💪,
+Learn 💻,
+Séires 📺,
 Books 📚
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-de-paula-654567165/)](https://www.linkedin.com/in/diogo-de-paula-654567165/)

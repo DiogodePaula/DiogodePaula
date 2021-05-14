@@ -8,10 +8,6 @@
 
 ## About me
 
-<a href="https://github.com/DiogodePaula" target="_blank">
-  <img align="center"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/DiogodePaula" />
-</a>
-
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/DiogodePaula)](https://github.com/DiogodePaula)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-de-paula-654567165/)](https://www.linkedin.com/in/diogo-de-paula-654567165/) 
 [![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/diogo_d_paula/)](https://www.instagram.com/diogo_d_paula/)
 
@@ -50,6 +46,9 @@ Games ![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&log
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif width="110">
 Here are some ideas to get you started:
 
+< a href="https://github.com/DiogodePaula" target="_blank">
+  < img align="center"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/DiogodePaula" />
+</a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

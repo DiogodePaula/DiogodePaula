@@ -37,13 +37,13 @@ Games ![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&log
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![INSOMNIA](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
-[![DiogodePaula GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogodePaula&show_icons=true&theme=radical)](https://github.com/DiogodePaula/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogodePaula&layout=compact&langs_count=10&theme=radical)](https://github.com/DiogodePaula/github-readme-stats) <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif width="110">
+[![DiogodePaula GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogodePaula&show_icons=true&theme=radical)](https://github.com/DiogodePaula/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogodePaula&layout=compact&langs_count=10&theme=radical)](https://github.com/DiogodePaula/github-readme-stats) 
 
 
 
 <!--
 **DiogodePaula/diogodePaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif width="110">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

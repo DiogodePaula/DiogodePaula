@@ -8,8 +8,7 @@
 
 ## About me
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-de-paula-654567165/)](https://www.linkedin.com/in/diogo-de-paula-654567165/) 
-[![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/diogo_d_paula/)](https://www.instagram.com/diogo_d_paula/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-de-paula-654567165/)](https://www.linkedin.com/in/diogo-de-paula-654567165/)  [![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/diogo_d_paula/)](https://www.instagram.com/diogo_d_paula/)
 
 ## Hobbies:
 

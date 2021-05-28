@@ -2,7 +2,7 @@
 
 ## I'm Diogo da Silva de Paula!
 
-## Fullstack Developer <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="60">
+## Full Stack Developer <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="60">
 
 ## About me
 

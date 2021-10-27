@@ -22,11 +22,12 @@ Games ![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&log
 
 ## Database
 
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MONGODB](https://img.shields.io/badge/-Mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Frameworks
 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ANGULARJS](https://img.shields.io/badge/Angularjs-F93154?style=for-the-badge&logo=angular&logoColor=white)
 ![MATERIAL-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)

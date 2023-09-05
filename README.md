@@ -2,7 +2,7 @@
 
 ## I'm Diogo da Silva de Paula!
 
-## Developer <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="60">
+<!-- ## Developer <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="60"> -->
 
 ## About me
 
@@ -14,8 +14,8 @@ Games ![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&log
 
 ## Languages
 
-![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) -->
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <!-- ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
@@ -32,13 +32,14 @@ Games ![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&log
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![EXPRESS.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+<!-- ![EXPRESS.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![INSOMNIA](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![INSOMNIA](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white) -->
 
-[![DiogodePaula GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogodePaula&show_icons=true&theme=radical)](https://github.com/DiogodePaula/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogodePaula&layout=compact&langs_count=10&theme=radical)](https://github.com/DiogodePaula/github-readme-stats) 
+<!-- [![DiogodePaula GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogodePaula&show_icons=true&theme=radical)](https://github.com/DiogodePaula/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogodePaula&layout=compact&langs_count=10&theme=radical)](https://github.com/DiogodePaula/github-readme-stats) 
 
 
 

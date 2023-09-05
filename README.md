@@ -8,9 +8,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-de-paula-654567165/)](https://www.linkedin.com/in/diogo-de-paula-654567165/)  [![Intagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/diogo_d_paula/)](https://www.instagram.com/diogo_d_paula/)
 
-## Hobbies:
+<!-- ## Hobbies:
 
-Games ![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white), Weight training 💪, Learn 💻, Séries 📺, Books 📚!
+Games ![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white), Weight training 💪, Learn 💻, Séries 📺, Books 📚! -->
 
 ## Languages
 

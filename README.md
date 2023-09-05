@@ -1,6 +1,6 @@
 # Welcome! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">😁
 
-## I'm Diogo da Silva de Paula!
+<!-- ## I'm Diogo da Silva de Paula! -->
 
 <!-- ## Developer <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="60"> -->
 

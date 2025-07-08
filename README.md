@@ -35,8 +35,8 @@ const diogo = {
 };
 ```
 
--   🔭 Atualmente trabalhando em projetos com **React**, **Next.js** e **Node.js**
--   🌱 Aprendendo sobre **IA/ML** e **Cloud Computing**
+-   🔭 Atualmente trabalhando em projetos com **React** e **Node.js**
+-   🌱 Aprendendo sobre **IA/ML** 
 -   👥 Participando ativamente dos eventos **NLW da Rocketseat**
 -   💼 Confira meu [**portfólio online**](https://curriculo-diogo-de-paula.vercel.app/) para ver meu trabalho completo
 -   💬 Vamos conversar sobre **JavaScript**, **TypeScript**, **React** e **desenvolvimento web**
@@ -74,7 +74,6 @@ const diogo = {
 
 ### **Tools & Others**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)

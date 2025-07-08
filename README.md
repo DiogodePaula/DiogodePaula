@@ -6,7 +6,7 @@
   ### 🚀 Desenvolvedor Full Stack | Dois Irmãos/RS
   
   <p align="center">
-    <em>Transformando ideias em código há mais de 3 anos</em>
+    <em>Transformando ideias em código há mais de 5 anos</em>
   </p>
   
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-de-paula-654567165/)](https://www.linkedin.com/in/diogo-de-paula-654567165/)
